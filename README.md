@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Big-wlz4rd straight out the 714! 
 - 👀 I’m interested in System Administration 💻 and System architecture 🛠💻
-- 🌱 I’m currently learning Azure, Windows Server Administration, Powershell, GIT, IaC, PowerPlatform, and automation. 
+- 🌱 I’m currently learning AWS, Windows Server Administration, Powershell, GIT, IaC, PowerPlatform, and automation. 
 - 📫 Reach out to me on Linkdin. :) https://www.linkedin.com/in/ruben-aguirre-a06019163/
+
 
 As of right now I am a systems administrator working for AFSOC as a DoD Contractor. My main thing is SCCM. I use a LOT of scripts in my daily tasks. I will be posting my scripts,
 that have helped me. Maybe you will find them useful or not. Also to go back and track my progression. 🌴 Here's to growth. 🌴
